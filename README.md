@@ -47,9 +47,9 @@ All headlines extracted from <h2> tags on the homepage.
 📷 Screenshot
 -----------------
 
-![Headline Scraper Screenshot](images/webscraper.png)
+![Headline Scraper Screenshot](Images/webscraper.png)
 
-![Headline Scraper Screenshot](images/webscraper1.png)
+![Headline Scraper Screenshot](Images/webscraper1.png)
 
 Example:
 -----------
